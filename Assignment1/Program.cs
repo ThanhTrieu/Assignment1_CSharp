@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("******************* Chuong trinh tinh hoa don tien nuoc ****************");
 
+/// test git
+
 // khai bao ham xu ly chuong trinh
 void TinhTienHoaDonNuoc()
 {
