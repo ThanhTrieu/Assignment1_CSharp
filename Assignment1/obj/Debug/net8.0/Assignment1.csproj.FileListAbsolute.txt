@@ -1,0 +1,14 @@
+C:\setup\CSharp\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.exe
+C:\setup\CSharp\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.deps.json
+C:\setup\CSharp\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.runtimeconfig.json
+C:\setup\CSharp\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.dll
+C:\setup\CSharp\Assignment1\Assignment1\bin\Debug\net8.0\Assignment1.pdb
+C:\setup\CSharp\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\setup\CSharp\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+C:\setup\CSharp\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+C:\setup\CSharp\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\setup\CSharp\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.dll
+C:\setup\CSharp\Assignment1\Assignment1\obj\Debug\net8.0\refint\Assignment1.dll
+C:\setup\CSharp\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.pdb
+C:\setup\CSharp\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.genruntimeconfig.cache
+C:\setup\CSharp\Assignment1\Assignment1\obj\Debug\net8.0\ref\Assignment1.dll
